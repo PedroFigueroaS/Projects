@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+  	
+  <include file="$(find rosbot_description)/launch/rosbot_gazebo.launch"></include>
+
+  <include file="$(find rosbot_gazebo)/launch/maze_world.launch"></include>
+  
+  <node pkg="rosbot_description" type="rosbot_project.py" name="rosbot_project" launch-prefix="gnome-terminal --command" />
+ 
+  
+</launch>
