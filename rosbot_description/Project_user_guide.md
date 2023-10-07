@@ -1,5 +1,5 @@
 # ROS PROJECT Guide to Compile and run the project
-GITHUB LINK OF THE PROJECT: https://github.com/PedroFigueroaS/FIRST_ASSIGNMENT_FIGUEROA_S5439029.git
+GITHUB LINK OF THE PROJECT: https://github.com/PedroFigueroaS/Projects.git
 
 Follow the instructions in the README.md file in order to set up the package in a ros workspace.
 
